@@ -1,3 +1,8 @@
+<img src="https://github.com/Andson-Sillas/dev-cafeteria/blob/main/mockup-cafeteria-dev.png">
+<br>
+<a href="https://andson-sillas.github.io/dev-cafeteria/">Link do projeto<a>
+<br>
+<br>
 ☕ Cafeteria do Dev
 Este é um projeto front-end de uma landing page para uma cafeteria fictícia chamada Cafeteria do Dev. O objetivo é apresentar os serviços da cafeteria de forma moderna, atrativa e responsiva.
 
